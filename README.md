@@ -1,2 +1,2 @@
 # EDA
-My Test commits
+Exploratory Data Analysis (EDA), my sample codes on Python.
